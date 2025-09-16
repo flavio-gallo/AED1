@@ -1,3 +1,5 @@
+//PROBLEMA 1180 BEECROWD, COM ALOC DINÂMICA - FLAVIO GALLO
+
 #include <stdio.h>
 #include <stdlib.h>
 
