@@ -1,3 +1,4 @@
+//PROBLEMA 1069 BEECROWD, UTILIZANDO PILHAS - FLAVIO GALLO CAJAZEIRA
 #include <stdio.h>
 #include <string.h>
 
